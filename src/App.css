@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+    color: #FF5722 !important;
+}
+
+.fa-cart-plus{
+    cursor: pointer;
+    color:#737272
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
